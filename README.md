@@ -19,10 +19,12 @@
 
 # 사이트 맵
 
-# 팀원
+# 팀원      
+백송이, 정원재
 
-# 기간
+# 기간     
+미정
 
 # 사용한 기술
-Tool :      
-Skill : 
+Tool : Tomcat 8.5, Oracle, Spring 2.6.7, jdk 8, eclipse 미정            
+Skill : spring(java), HTML5, CSS3, SQL, JavaScript, Jquery, JSTL, JWT
